@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Third Paulista Graduate Meeting of Computing</title>
+    <link>http://vision.ime.usp.br/~hirata/eppc3/</link>
+    <description>Recent content on Third Paulista Graduate Meeting of Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://vision.ime.usp.br/~hirata/eppc3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
